@@ -1,3 +1,4 @@
+SDLC stands for software development lifecycle.
 Learning DevOps engineering is crucial in modern software development because it plays a central role in improving the efficiency, reliability, and speed of the software development cycle
 Here are some key reasons why learning DevOps is important in software development:
 Accelerated Software Delivery: DevOps practices automate and streamline various aspects of the software development cycle, such as building, testing, and deployment. This acceleration enables organizations to release software updates and new features more rapidly, staying competitive in the fast-paced software industry.
