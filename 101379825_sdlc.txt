@@ -1,0 +1,7 @@
+
+Learning DevOps is important in making software because it helps 
+teams work together better. DevOps engineers make sure that creating, testing, 
+and releasing software happens smoothly and quickly. 
+This makes the whole process faster, with fewer mistakes. 
+When everyone in the team communicates and works well together, 
+the software turns out better and is ready for users faster.
