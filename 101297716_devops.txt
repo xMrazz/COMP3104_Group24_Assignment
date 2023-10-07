@@ -1,0 +1,3 @@
+DevOps is a field that focuses on the collaboration and communication between software development (Dev) and IT operations (Ops) teams. 
+The goal is to automate and streamline the software delivery process, making it faster, more reliable, and more efficient.
+DevOps is taught by Pritesh Patel this semester.
