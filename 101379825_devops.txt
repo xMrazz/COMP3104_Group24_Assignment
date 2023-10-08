@@ -1,0 +1,2 @@
+COMP3104 course is about learning the procedures, protocols and best practices
+that a DevOps engineer brings to a workplace environment to increase productivity.

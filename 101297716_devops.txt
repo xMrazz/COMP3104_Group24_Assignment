@@ -1,0 +1,7 @@
+DevOps is a field that focuses on the collaboration and communication between software development (Dev) and IT operations (Ops) teams. 
+The goal is to automate and streamline the software delivery process, making it faster, more reliable, and more efficient.
+DevOps is taught by Pritesh Patel this semester.
+There are 10 labs total for this course. Students work on 1 lab a week. The marks are best 8 out of  10 for a total of 16% of the final grade.
+There are 10 quizes total for this course. Students work on 1  quiz a week. The marks are best 8 out of  10 for a total of 8% of the final grade.
+There are 2 assignemnts, 1 indivisual and one group assignment, this is the group assignment. the assignments are worth a total of 26% of the final grade.
+There are 2 exams that students need to do for a total of 50% of the final grade, the first is worth 20% and the second is worth 30%.
