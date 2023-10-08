@@ -1,0 +1,6 @@
+1. DevOps practices enable faster development and deployment of software applications with helps numerous people to become productive
+2. DevOps promotes CI/CD pipelines, which automate the building, testing, and deployment of code changes
+3. With automated testing and continuous monitoring, DevOps helps improve the quality of software
+4. DevOps practices allow for the rapid scaling of infrastructure and applications
+5. DevOps practices can help organizations maintain compliance with industry regulations and standards
+ 
