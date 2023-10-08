@@ -1,0 +1,3 @@
+1. COMP 3104 is teached by Mr. Pritesh Patel.
+2. COMP 3104 is designed to better prepare professionals entering the IT field. 
+3. Dev Ops helps us to automate and integrate the processes between software development and IT teams.
